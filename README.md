@@ -6,9 +6,9 @@ To design and simulate a CMOS inverter circuit using Synopsys EDA tools, analyze
 ## Tools Required
 
 ### Synopsys EDA Suite
-- **Synopsys Custom Compiler – For CMOS inverter schematic design.
-- **Synopsys PrimeWave Design Environment – For simulation setup and waveform analysis.
-- **Synopsys PrimeSim HSPICE / PrimeSim – For circuit simulation and analysis.
+- Synopsys Custom Compiler – For CMOS inverter schematic design.
+- Synopsys PrimeWave Design Environment – For simulation setup and waveform analysis.
+- Synopsys PrimeSim HSPICE / PrimeSim – For circuit simulation and analysis.
 
 ### Process Design Kit (PDK)
 - CMOS technology library (e.g., 180nm, 45nm node)  
