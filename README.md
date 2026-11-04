@@ -1,4 +1,4 @@
-# Ex No: 01 - Design a CMOS inverter and analyze transient response Using Synopsis EDA Tools
+# Ex No: 01 - Design a CMOS inverter and aAnalyze Transient Response using Synopsis EDA Tools
 
 ## Aim
 To design and simulate a CMOS inverter circuit using Synopsys EDA tools, analyze its electrical characteristics, and study its transient response
